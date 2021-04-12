@@ -1,9 +1,9 @@
 firebase.initializeApp({
-  apiKey: "AIzaSyDrciNVISy1Q98NoTa5e4H_Uk_uoDxmDg4",
-    authDomain: "bdalum41.firebaseapp.com",
-    projectId: "bdalum41",
-    storageBucket: "bdalum41.appspot.com",
-    messagingSenderId: "225742393346",
-    appId: "1:225742393346:web:9550ccfabeaf990244d71b",
-    measurementId: "G-YKVKZMJ5X2"
+  apiKey: "AIzaSyDTORhF11V8eCGH07xcgfStMM3VzLa-xtk",
+    authDomain: "evaluacion3erparcial.firebaseapp.com",
+    projectId: "evaluacion3erparcial",
+    storageBucket: "evaluacion3erparcial.appspot.com",
+    messagingSenderId: "811857773266",
+    appId: "1:811857773266:web:d0cf872170472253ca230b",
+    measurementId: "G-5JQRLP139L"
 });
